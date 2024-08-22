@@ -32,5 +32,35 @@
     "DownloadLinkUpdate": "https://github.com/anya-hichu/ChatContext/releases/download/0.0.0.1/ChatContext.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "Pyon, Anya Hichu",
+    "Name": "GamblePyon",
+    "Punchline": "Helper plugin for Blackjack",
+    "Description": "An interface for managing a game of Blackjack.\n/pyon - Open GamblePyon",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "blackjack",
+      "gamble",
+      "pyon"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "RepoUrl": "https://github.com/anya-hichu/FFXIVGamblePyon",
+    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/main/images/icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/main/images/image1.png"
+    ],
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.0.7/GamblePyon.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.0.7/GamblePyon.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.0.7/GamblePyon.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
