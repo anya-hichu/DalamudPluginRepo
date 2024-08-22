@@ -36,6 +36,7 @@
   {
     "Author": "Pyon, Anya Hichu",
     "Name": "GamblePyon",
+    "AssemblyVersion": "1.0.0.7",
     "Punchline": "Helper plugin for Blackjack",
     "Description": "An interface for managing a game of Blackjack.\n/pyon - Open GamblePyon",
     "ApplicableVersion": "any",
