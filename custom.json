@@ -38,7 +38,6 @@
     "Name": "GamblePyon",
     "InternalName": "GamblePyon",
     "AssemblyVersion": "1.0.0.7",
-    "Punchline": "Helper plugin for Blackjack",
     "Description": "An interface for managing a game of Blackjack.\n/pyon - Open GamblePyon",
     "ApplicableVersion": "any",
     "Tags": [
@@ -51,6 +50,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
+    "Punchline": "Helper plugin for Blackjack",
     "RepoUrl": "https://github.com/anya-hichu/FFXIVGamblePyon",
     "IconUrl": "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/main/images/icon.png",
     "ImageUrls": [
@@ -62,6 +62,34 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.0.7/GamblePyon.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.0.7/GamblePyon.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
+  },
+  {
+    "Author": "Anya Hichu",
+    "Name": "Orderific",
+    "InternalName": "Orderific",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Cycle through multiple honorific titles in order",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "honorific",
+      "timer",
+      "cycle",
+      "order"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Cycle through multiple honorific titles in order.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/anya-hichu/Orderific/releases/download/0.0.0.1/Orderific.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/anya-hichu/Orderific/releases/download/0.0.0.1/Orderific.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/Orderific/releases/download/0.0.0.1/Orderific.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   }
