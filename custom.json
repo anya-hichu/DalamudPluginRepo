@@ -52,9 +52,9 @@
     "LoadPriority": 0,
     "Punchline": "Helper plugin for Blackjack",
     "RepoUrl": "https://github.com/anya-hichu/FFXIVGamblePyon",
-    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/0.0.0.1/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/1.0.0.7/images/icon.png",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/0.0.0.1/images/image1.png"
+      "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/1.0.0.7/images/image1.png"
     ],
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.0.7/GamblePyon.zip",
