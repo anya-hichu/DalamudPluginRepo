@@ -92,5 +92,37 @@
     "DownloadLinkUpdate": "https://github.com/anya-hichu/Orderific/releases/download/0.0.0.1/Orderific.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "Anya Hichu",
+    "Name": "Quack",
+    "InternalName": "Quack",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Generate and run macro actions quickly using a spotlight inspired interface.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/Quack",
+    "Tags": [
+      "search",
+      "macro",
+      "generator",
+      "quick",
+      "scripting"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "ImageUrls": [],
+    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/Quack/master/images/icon.png",
+    "Punchline": "Run actions quackly.",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/anya-hichu/Quack/releases/download/0.0.0.1/Quack.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/anya-hichu/Quack/releases/download/0.0.0.1/Quack.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/Quack/releases/download/0.0.0.1/Quack.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
