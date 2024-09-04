@@ -22,7 +22,7 @@
       "https://raw.githubusercontent.com/anya-hichu/ChatContext/master/images/image2.png",
       "https://raw.githubusercontent.com/anya-hichu/ChatContext/master/images/image3.png"
     ],
-    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/ChatContext/master/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/ChatContext/0.0.0.1/images/icon.png",
     "Punchline": "Add sender target name in chat messages.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/anya-hichu/ChatContext/releases/download/0.0.0.1/ChatContext.zip",
@@ -52,9 +52,9 @@
     "LoadPriority": 0,
     "Punchline": "Helper plugin for Blackjack",
     "RepoUrl": "https://github.com/anya-hichu/FFXIVGamblePyon",
-    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/main/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/0.0.0.1/images/icon.png",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/main/images/image1.png"
+      "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/0.0.0.1/images/image1.png"
     ],
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.0.7/GamblePyon.zip",
@@ -114,7 +114,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "ImageUrls": [],
-    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/Quack/master/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/Quack/0.0.0.1/images/icon.png",
     "Punchline": "Run actions quackly.",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/anya-hichu/Quack/releases/download/0.0.0.1/Quack.zip",
