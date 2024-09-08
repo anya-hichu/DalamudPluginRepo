@@ -124,5 +124,32 @@
     "DownloadLinkUpdate": "https://github.com/anya-hichu/Quack/releases/download/0.0.0.7/Quack.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "Anya Hichu",
+    "Name": "DeterministicPose",
+    "InternalName": "DeterministicPose",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Dalamud plugin that provides a deterministic cpose command",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "cpose",
+      "deterministic",
+      "index"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "/dpose <index>",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.0.1/DeterministicPose.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.0.1/DeterministicPose.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.0.1/DeterministicPose.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
