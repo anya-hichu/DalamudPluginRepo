@@ -156,7 +156,7 @@
     "Author": "Anya Hichu",
     "Name": "ModSettingCommands",
     "InternalName": "ModSettingCommands",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "Description": "Provides /modset command to update penumbra mod settings",
     "ApplicableVersion": "any",
     "Tags": [
@@ -172,11 +172,11 @@
     "LoadPriority": 0,
     "Punchline": "Update mod settings using command",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.0.1/ModSettingCommands.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.0.2/ModSettingCommands.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.0.1/ModSettingCommands.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.0.1/ModSettingCommands.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.0.2/ModSettingCommands.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.0.2/ModSettingCommands.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   }
