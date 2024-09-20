@@ -199,7 +199,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Ain't nobody got time for bulk tagging",
-    "AcceptsFeedback": true
+    "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.0.1/ModAutoTagger.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
