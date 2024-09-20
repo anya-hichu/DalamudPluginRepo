@@ -184,7 +184,7 @@
     "Author": "Anya Hichu",
     "Name": "ModAutoTagger",
     "InternalName": "ModAutoTagger",
-    "AssemblyVersion": "0.0.0.1",
+    "AssemblyVersion": "0.0.0.2",
     "Description": "Add bulk tags dynamically to penumbra mods based on conditions",
     "ApplicableVersion": "any",
     "Tags": [
@@ -200,11 +200,11 @@
     "LoadPriority": 0,
     "Punchline": "Ain't nobody got time for bulk tagging",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.0.1/ModAutoTagger.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.0.2/ModAutoTagger.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.0.1/ModAutoTagger.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.0.1/ModAutoTagger.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.0.2/ModAutoTagger.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.0.2/ModAutoTagger.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   }
