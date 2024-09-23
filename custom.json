@@ -212,7 +212,7 @@
     "Author": "Anya Hichu",
     "Name": "ChatDeathRoll",
     "InternalName": "ChatDeathRoll",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.3",
     "Description": "Provides link buttons in chat for death rolling",
     "ApplicableVersion": "any",
     "Tags": [
@@ -229,11 +229,11 @@
     "LoadPriority": 0,
     "Punchline": "Zero trust death rolling helper",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.0.2/ChatDeathRoll.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.0.3/ChatDeathRoll.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.0.2/ChatDeathRoll.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.0.2/ChatDeathRoll.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.0.3/ChatDeathRoll.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.0.3/ChatDeathRoll.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   }
