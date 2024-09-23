@@ -207,5 +207,34 @@
     "DownloadLinkUpdate": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.0.2/ModAutoTagger.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "Anya Hichu",
+    "Name": "ChatDeathRoll",
+    "InternalName": "ChatDeathRoll",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Provides link buttons in chat for death rolling",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "deathroll",
+      "button",
+      "link",
+      "chat",
+      "helper"
+    ],
+    "DalamudApiLevel": 10,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Zero trust death rolling helper",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.0.1/ChatDeathRoll.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.0.1/ChatDeathRoll.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.0.1/ChatDeathRoll.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
