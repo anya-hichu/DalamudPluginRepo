@@ -3,7 +3,7 @@
     "Author": "Pyon, Anya Hichu",
     "Name": "GamblePyon",
     "InternalName": "GamblePyon",
-    "AssemblyVersion": "1.0.1.0",
+    "AssemblyVersion": "1.0.1.1",
     "Description": "An interface for managing a game of Blackjack.\n/pyon - Open GamblePyon",
     "ApplicableVersion": "any",
     "Tags": [
@@ -18,16 +18,16 @@
     "LoadPriority": 0,
     "Punchline": "Helper plugin for Blackjack",
     "RepoUrl": "https://github.com/anya-hichu/FFXIVGamblePyon",
-    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/1.0.1.0/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/1.0.1.1/images/icon.png",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/1.0.1.0/images/image1.png"
+      "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/1.0.1.1/images/image1.png"
     ],
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.1.0/GamblePyon.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.1.1/GamblePyon.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.1.0/GamblePyon.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.1.0/GamblePyon.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.1.1/GamblePyon.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.1.1/GamblePyon.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   },
