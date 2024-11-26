@@ -231,13 +231,13 @@
     "LastUpdated": "0"
   },
   {
-    "Author": "Anna",
-    "Name": "Peeping Tom+",
-    "InternalName": "PeepingTom",
+    "Author": "Anna, Anya Hichu",
+    "Name": "Peeping Tom Z",
+    "InternalName": "PeepingTomZ",
     "AssemblyVersion": "0.7.18",
     "Description": "Shows who is currently or was previously targeting you.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://git.anna.lgbt/anna/PeepingTom",
+    "RepoUrl": "https://github.com/anya-hichu/PeepingTom",
     "DalamudApiLevel": 11,
     "LoadRequiredState": 0,
     "LoadSync": false,
