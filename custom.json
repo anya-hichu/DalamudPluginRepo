@@ -232,8 +232,8 @@
   },
   {
     "Author": "Anna, Anya Hichu",
-    "Name": "Peeping Tom Z",
-    "InternalName": "PeepingTomZ",
+    "Name": "Peeping Tom",
+    "InternalName": "PeepingTom",
     "AssemblyVersion": "0.7.18",
     "Description": "Shows who is currently or was previously targeting you.",
     "ApplicableVersion": "any",
