@@ -232,8 +232,8 @@
   },
   {
     "Author": "Anna, Anya Hichu",
-    "Name": "Peeping Tom",
-    "InternalName": "PeepingTom",
+    "Name": "Peeping Tom Z",
+    "InternalName": "PeepingTomZ",
     "AssemblyVersion": "0.7.18",
     "Description": "Shows who is currently or was previously targeting you.",
     "ApplicableVersion": "any",
@@ -245,11 +245,11 @@
     "LoadPriority": 0,
     "Punchline": "Shows who is currently or was previously targeting you.",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/PeepingTom/releases/download/0.7.18/PeepingTom.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/PeepingTom/releases/download/0.7.18/PeepingTomZ.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/PeepingTom/releases/download/0.7.18/PeepingTom.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/PeepingTom/releases/download/0.7.18/PeepingTom.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/PeepingTom/releases/download/0.7.18/PeepingTomZ.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/PeepingTom/releases/download/0.7.18/PeepingTomZ.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
    }
