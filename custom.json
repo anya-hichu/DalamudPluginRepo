@@ -229,5 +229,33 @@
     "DownloadLinkUpdate": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.1.0/DiscordActivityHonorific.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "Anya Hichu",
+    "Name": "RecruitmentRefresher",
+    "InternalName": "RecruitmentRefresher",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Refresh party finder recruitment automatically",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "recruitment",
+      "party",
+      "finder",
+      "refresher"
+    ],
+    "DalamudApiLevel": 11,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Recruit all night!",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.0.1/RecruitmentRefresher.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.0.1/RecruitmentRefresher.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.0.1/RecruitmentRefresher.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
