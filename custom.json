@@ -80,7 +80,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "ImageUrls": [],
-    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/Quack/0.0.8.3/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/Quack/0.0.8.4/images/icon.png",
     "Punchline": "Run actions quackly",
     "AcceptsFeedback": true,
     "DownloadLinkInstall": "https://github.com/anya-hichu/Quack/releases/download/0.0.8.4/Quack.zip",
