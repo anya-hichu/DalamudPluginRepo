@@ -257,5 +257,32 @@
     "DownloadLinkUpdate": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.1.0/RecruitmentRefresher.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "Anya Hichu",
+    "Name": "PatMeHonorific",
+    "InternalName": "PatMeHonorific",
+    "AssemblyVersion": "0.0.1.0",
+    "Description": "Displays pat counter as honorific title dynamically",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "pat",
+      "plugin",
+      "honorific"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Pat counter in title",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.1.0/PatMeHonorific.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.1.0/PatMeHonorific.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.1.0/PatMeHonorific.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
