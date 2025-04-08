@@ -284,5 +284,32 @@
     "DownloadLinkUpdate": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.1.3/PatMeHonorific.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "Anya Hichu",
+    "Name": "Reggiex",
+    "InternalName": "Reggiex",
+    "AssemblyVersion": "0.0.0.1",
+    "Description": "Configurable text patterns to execute commands",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "text",
+      "command",
+      "execute"
+    ],
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Because my body is reggie(x)",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.1/Reggiex.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.1/Reggiex.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.1/Reggiex.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
