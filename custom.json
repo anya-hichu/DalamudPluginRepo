@@ -289,7 +289,7 @@
     "Author": "Anya Hichu",
     "Name": "Reggiex",
     "InternalName": "Reggiex",
-    "AssemblyVersion": "0.0.0.4",
+    "AssemblyVersion": "0.0.0.5",
     "Description": "Configurable text patterns to execute commands",
     "ApplicableVersion": "any",
     "Tags": [
@@ -304,11 +304,11 @@
     "LoadPriority": 0,
     "Punchline": "Because my body is reggie(x)",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.4/Reggiex.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.5/Reggiex.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.4/Reggiex.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.4/Reggiex.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.5/Reggiex.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.5/Reggiex.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   }
