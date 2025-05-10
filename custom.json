@@ -95,7 +95,7 @@
     "Author": "Anya Hichu",
     "Name": "DeterministicPose",
     "InternalName": "DeterministicPose",
-    "AssemblyVersion": "0.0.2.1",
+    "AssemblyVersion": "0.0.2.2",
     "Description": "Dalamud plugin that provides a deterministic cpose command",
     "ApplicableVersion": "any",
     "Tags": [
@@ -110,11 +110,11 @@
     "LoadPriority": 0,
     "Punchline": "/dpose <index>",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.1/DeterministicPose.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.2/DeterministicPose.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.1/DeterministicPose.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.1/DeterministicPose.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.2/DeterministicPose.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.2/DeterministicPose.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   },
