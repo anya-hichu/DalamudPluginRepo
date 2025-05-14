@@ -342,7 +342,7 @@
     "AssemblyVersion": "0.3.8.1",
     "Description": "Write custom chat commands by creating lua scripts",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/VariableVixen/WoLua",
+    "RepoUrl": "https://github.com/anya-hichu/WoLua",
     "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
