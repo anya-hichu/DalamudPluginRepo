@@ -334,5 +334,28 @@
     "DownloadLinkUpdate": "https://github.com/anya-hichu/TinyCommands/releases/download/0.8.9.3/TinyCmds.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "VariableVixen",
+    "Name": "WoLua",
+    "InternalName": "WoLua",
+    "AssemblyVersion": "0.3.8.1",
+    "Description": "Write custom chat commands by creating lua scripts",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/VariableVixen/WoLua",
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Write your own custom chat commands in lua!",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/anya-hichu/WoLua/releases/download/0.3.8.1/WoLua.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/anya-hichu/WoLua/releases/download/0.3.8.1/WoLua.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/WoLua/releases/download/0.3.8.1/WoLua.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
