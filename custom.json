@@ -311,5 +311,28 @@
     "DownloadLinkUpdate": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.7/Reggiex.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
+  },
+  {
+    "Author": "VariableVixen, Anya Hichu",
+    "Name": "TinyCommands",
+    "InternalName": "TinyCmds",
+    "AssemblyVersion": "0.8.9.3",
+    "Description": "Adds tiny and simple but useful chat commands, and nothing more. It doesn't even have a UI.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/TinyCommands",
+    "DalamudApiLevel": 12,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Tiny, GUI-less convenience commands designed to make macros more powerful",
+    "AcceptsFeedback": false,
+    "DownloadLinkInstall": "https://github.com/anya-hichu/TinyCommands/releases/download/0.8.9.3/TinyCmds.zip",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkTesting": "https://github.com/anya-hichu/TinyCommands/releases/download/0.8.9.3/TinyCmds.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/TinyCommands/releases/download/0.8.9.3/TinyCmds.zip",
+    "DownloadCount": 0,
+    "LastUpdated": "0"
   }
 ]
