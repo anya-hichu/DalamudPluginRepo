@@ -234,7 +234,7 @@
     "Author": "Anya Hichu",
     "Name": "RecruitmentRefresher",
     "InternalName": "RecruitmentRefresher",
-    "AssemblyVersion": "0.0.1.1",
+    "AssemblyVersion": "0.0.1.2",
     "Description": "Refresh party finder recruitment automatically",
     "ApplicableVersion": "any",
     "Tags": [
@@ -250,11 +250,11 @@
     "LoadPriority": 0,
     "Punchline": "Recruit all night!",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.1.1/RecruitmentRefresher.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.1.2/RecruitmentRefresher.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.1.1/RecruitmentRefresher.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.1.1/RecruitmentRefresher.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.1.2/RecruitmentRefresher.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.1.2/RecruitmentRefresher.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   },
