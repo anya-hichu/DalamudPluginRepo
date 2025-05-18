@@ -262,7 +262,7 @@
     "Author": "Anya Hichu",
     "Name": "PatMeHonorific",
     "InternalName": "PatMeHonorific",
-    "AssemblyVersion": "0.0.2.2",
+    "AssemblyVersion": "0.0.2.3",
     "Description": "Displays emote counters as honorific title dynamically",
     "ApplicableVersion": "any",
     "Tags": [
@@ -277,11 +277,11 @@
     "LoadPriority": 0,
     "Punchline": "Show your emote goals",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.2.2/PatMeHonorific.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.2.3/PatMeHonorific.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.2.2/PatMeHonorific.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.2.2/PatMeHonorific.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.2.3/PatMeHonorific.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.2.3/PatMeHonorific.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   },
