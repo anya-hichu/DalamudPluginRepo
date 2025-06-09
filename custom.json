@@ -96,7 +96,7 @@
     "Author": "Anya Hichu",
     "Name": "DeterministicPose",
     "InternalName": "DeterministicPose",
-    "AssemblyVersion": "0.0.2.6",
+    "AssemblyVersion": "0.0.2.7",
     "Description": "Dalamud plugin that provides a deterministic cpose command",
     "ApplicableVersion": "any",
     "Tags": [
@@ -112,11 +112,11 @@
     "Punchline": "/dpose <index>",
     "Changelog": "- Add /localsync command to sync animation local time with someone.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.6/DeterministicPose.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.7/DeterministicPose.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.6/DeterministicPose.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.6/DeterministicPose.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.7/DeterministicPose.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.7/DeterministicPose.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   },
