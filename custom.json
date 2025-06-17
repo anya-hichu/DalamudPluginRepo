@@ -96,7 +96,7 @@
     "Author": "Anya Hichu",
     "Name": "DeterministicPose",
     "InternalName": "DeterministicPose",
-    "AssemblyVersion": "0.0.2.9",
+    "AssemblyVersion": "0.0.2.10",
     "Description": "Dalamud plugin that provides a deterministic cpose command",
     "ApplicableVersion": "any",
     "Tags": [
@@ -112,11 +112,11 @@
     "Punchline": "/dpose <index>",
     "Changelog": "- Add /remotesync <player name> command to sync with someone server side.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.9/DeterministicPose.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.10/DeterministicPose.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.9/DeterministicPose.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.9/DeterministicPose.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.10/DeterministicPose.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.10/DeterministicPose.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   },
