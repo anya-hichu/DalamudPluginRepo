@@ -97,7 +97,7 @@
     "Name": "DeterministicPose",
     "InternalName": "DeterministicPose",
     "AssemblyVersion": "0.0.2.12",
-    "Description": "Dalamud plugin that provides a deterministic cpose command",
+    "Description": "Provide deterministic pose commands (cpose, standup, walk, etc.)",
     "ApplicableVersion": "any",
     "Tags": [
       "cpose",
