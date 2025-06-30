@@ -109,7 +109,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "Punchline": "/dpose <index>",
+    "Punchline": "Deterministic is fantastic",
     "Changelog": "- Add /walk command to control walking mode.",
     "AcceptsFeedback": false,
     "DownloadLinkInstall": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.12/DeterministicPose.zip",
