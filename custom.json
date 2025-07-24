@@ -96,7 +96,7 @@
     "Author": "Anya Hichu",
     "Name": "DeterministicPose",
     "InternalName": "DeterministicPose",
-    "AssemblyVersion": "0.0.2.13",
+    "AssemblyVersion": "0.0.2.14",
     "Description": "Provide deterministic pose commands (cpose, standup, walk, etc.)",
     "ApplicableVersion": "any",
     "Tags": [
@@ -112,11 +112,11 @@
     "Punchline": "Deterministic is fantastic!",
     "Changelog": "- Improve argument parser to support single quotes and escaping using backslash or doubling.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.13/DeterministicPose.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.14/DeterministicPose.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.13/DeterministicPose.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.13/DeterministicPose.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.14/DeterministicPose.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.2.14/DeterministicPose.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   },
