@@ -209,7 +209,7 @@
     "Author": "Anya Hichu",
     "Name": "DiscordActivityHonorific",
     "InternalName": "DiscordActivityHonorific",
-    "AssemblyVersion": "0.0.2.1",
+    "AssemblyVersion": "0.0.2.2",
     "Description": "Update honorific title based on discord activity informations",
     "ApplicableVersion": "any",
     "Tags": [
@@ -224,11 +224,11 @@
     "LoadPriority": 0,
     "Punchline": "Discord activity as honorific",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.2.1/DiscordActivityHonorific.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.2.2/DiscordActivityHonorific.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.2.1/DiscordActivityHonorific.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.2.1/DiscordActivityHonorific.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.2.2/DiscordActivityHonorific.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.2.2/DiscordActivityHonorific.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   },
