@@ -271,7 +271,7 @@
     "Author": "Anya Hichu",
     "Name": "Reggiex",
     "InternalName": "Reggiex",
-    "AssemblyVersion": "0.0.0.11",
+    "AssemblyVersion": "0.0.1.0",
     "Description": "Configurable text patterns or emotes to execute commands",
     "ApplicableVersion": "any",
     "Tags": [
@@ -285,13 +285,13 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Because my body is reggie(x)",
-    "Changelog": "- Add possibility to disable target check and instigator checks to react to ourself.",
+    "Changelog": "- API13",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.11/Reggiex.zip",
+    "DownloadLinkInstall": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.1.0/Reggiex.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkTesting": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.11/Reggiex.zip",
-    "DownloadLinkUpdate": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.0.11/Reggiex.zip",
+    "DownloadLinkTesting": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.1.0/Reggiex.zip",
+    "DownloadLinkUpdate": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.1.0/Reggiex.zip",
     "DownloadCount": 0,
     "LastUpdated": "0"
   }
