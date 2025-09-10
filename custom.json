@@ -6,6 +6,7 @@
     "AssemblyVersion": "1.0.3.0",
     "Description": "An interface for managing a game of Blackjack.\n/pyon - Open GamblePyon",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/FFXIVGamblePyon",
     "Tags": [
       "blackjack",
       "gamble",
@@ -18,7 +19,6 @@
     "LoadPriority": 0,
     "Punchline": "Helper plugin for Blackjack",
     "Changelog": "- API13",
-    "RepoUrl": "https://github.com/anya-hichu/FFXIVGamblePyon",
     "IconUrl": "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/1.0.3.0/images/icon.png",
     "ImageUrls": [
       "https://raw.githubusercontent.com/anya-hichu/FFXIVGamblePyon/1.0.3.0/images/image1.png"
@@ -73,6 +73,7 @@
     "AssemblyVersion": "0.0.3.0",
     "Description": "Provide deterministic pose commands (cpose, standup, walk, etc.)",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/DeterministicPose",
     "Tags": [
       "cpose",
       "deterministic",
@@ -101,6 +102,7 @@
     "AssemblyVersion": "0.0.4.1",
     "Description": "Provides commands to interact with penumbra mod settings",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/ModSettingCommands",
     "Tags": [
       "penumbra",
       "settings",
@@ -130,6 +132,7 @@
     "AssemblyVersion": "0.0.3.0",
     "Description": "Add bulk tags dynamically to penumbra mods based on conditions",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/ModAutoTagger",
     "Tags": [
       "penumbra",
       "mod",
@@ -159,6 +162,7 @@
     "AssemblyVersion": "0.0.3.1",
     "Description": "Provides link buttons in chat for death rolling",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/ChatDeathRoll",
     "Tags": [
       "deathroll",
       "button",
@@ -189,6 +193,7 @@
     "AssemblyVersion": "0.0.3.0",
     "Description": "Update honorific title based on discord activity informations",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
     "Tags": [
       "discord",
       "activity",
@@ -217,6 +222,7 @@
     "AssemblyVersion": "0.0.2.0",
     "Description": "Refresh party finder recruitment automatically",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/RecruitmentRefresher",
     "Tags": [
       "recruitment",
       "party",
@@ -246,6 +252,7 @@
     "AssemblyVersion": "0.0.3.0",
     "Description": "Displays emote counters as honorific title dynamically",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
     "Tags": [
       "emote",
       "plugin",
@@ -274,6 +281,7 @@
     "AssemblyVersion": "0.0.1.0",
     "Description": "Configurable text patterns or emotes to execute commands",
     "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/anya-hichu/Reggiex",
     "Tags": [
       "text",
       "command",
