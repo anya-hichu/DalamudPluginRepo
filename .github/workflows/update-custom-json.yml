@@ -62,7 +62,7 @@ jobs:
               download_count = sum(a["download_count"] for a in latest.get("assets", []))
 
               # Update fields
-              plugin["LastUpdated"] = last_updated
+              plugin["LastUpdate"] = last_updated
               plugin["DownloadCount"] = download_count
               updated = True
 
