@@ -25,12 +25,21 @@ jobs:
         run: |
           python3 <<'EOF'
           import json, re, requests
+          from datetime import datetime
 
           def get_owner_repo(url):
-              match = re.search("github\\.com/([^/]+)/([^/]+)", url)
-              return match.groups() if match else (None, None)
+              m = re.search("github\\.com/([^/]+)/([^/]+)$", url.strip("/"))
+              return m.groups() if m else (None, None)
 
-          # Load custom.json
+          def to_unix_timestamp(iso_str):
+              if not iso_str:
+                  return None
+              try:
+                  dt = datetime.strptime(iso_str, "%Y-%m-%dT%H:%M:%SZ")
+                  return int(dt.timestamp())
+              except Exception:
+                  return None
+
           with open("custom.json", "r") as f:
               plugins = json.load(f)
 
@@ -38,43 +47,55 @@ jobs:
           for plugin in plugins:
               repo_url = plugin.get("RepoUrl")
               if not repo_url:
+                  print(f"Skipping {plugin.get('InternalName')} - no RepoUrl")
                   continue
 
               owner, repo = get_owner_repo(repo_url)
               if not owner or not repo:
-                  print(f"Skipping {plugin.get('InternalName')} - invalid RepoUrl")
+                  print(f"Skipping {plugin.get('InternalName')} - invalid RepoUrl: {repo_url}")
                   continue
 
-              api_url = f"https://api.github.com/repos/{owner}/{repo}/releases"
+              api_url = f"https://api.github.com/repos/{owner}/{repo}/releases?per_page=100"
               print(f"Fetching releases for {plugin.get('InternalName')} ({api_url})")
-              response = requests.get(api_url)
-              if response.status_code != 200:
-                  print(f"Failed to fetch {api_url}")
+              resp = requests.get(api_url)
+              if resp.status_code != 200:
+                  print(f"Failed to fetch {api_url}: {resp.status_code}")
                   continue
 
-              releases = response.json()
-              if not releases:
-                  print(f"No releases found for {plugin.get('InternalName')}")
+              releases = resp.json()
+              if not isinstance(releases, list) or not releases:
+                  print(f"No releases for {plugin.get('InternalName')}")
                   continue
 
-              latest = releases[0]
-              last_updated = latest.get("published_at")
-              download_count = sum(a["download_count"] for a in latest.get("assets", []))
+              total_downloads = sum(
+                  a.get("download_count", 0)
+                  for r in releases
+                  for a in r.get("assets", [])
+              )
 
-              # Update fields
-              plugin["LastUpdate"] = last_updated
-              plugin["DownloadCount"] = download_count
+              last_updated_iso = max(
+                  (r.get("published_at") for r in releases if r.get("published_at")),
+                  default=None
+              )
+              last_updated_unix = to_unix_timestamp(last_updated_iso)
+
+              plugin["LastUpdate"] = last_updated_unix
+              plugin["DownloadCount"] = total_downloads
               updated = True
+              print(f"✔ Updated {plugin.get('InternalName')}: {total_downloads} downloads, last updated {last_updated_unix}")
 
-              print(f"Updated {plugin.get('InternalName')}: {download_count} downloads, last updated {last_updated}")
-
-          # Write changes if any
           if updated:
               with open("custom.json", "w") as f:
                   json.dump(plugins, f, indent=2)
           else:
               print("No updates to apply.")
           EOF
+
+      - name: Archive custom.json
+        uses: actions/upload-artifact@v3
+        with:
+          name: custom-json-archive
+          path: custom.json
 
       - name: Commit and push changes
         run: |
