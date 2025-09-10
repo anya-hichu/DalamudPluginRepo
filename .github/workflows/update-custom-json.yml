@@ -92,7 +92,7 @@ jobs:
           EOF
 
       - name: Archive custom.json
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: custom-json-archive
           path: custom.json
