@@ -1,0 +1,85 @@
+name: Update custom.json for all plugins
+
+on:
+  schedule:
+    - cron: 0 0 * * *
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update custom.json
+        run: |
+          python3 <<'EOF'
+          import json, re, requests
+
+          def get_owner_repo(url):
+              match = re.search(r"github\\.com/([^/]+)/([^/]+)", url)
+              return match.groups() if match else (None, None)
+
+          # Load custom.json
+          with open("custom.json", "r") as f:
+              plugins = json.load(f)
+
+          updated = False
+          for plugin in plugins:
+              repo_url = plugin.get("RepoUrl")
+              if not repo_url:
+                  continue
+
+              owner, repo = get_owner_repo(repo_url)
+              if not owner or not repo:
+                  print(f"Skipping {plugin.get('InternalName')} - invalid RepoUrl")
+                  continue
+
+              api_url = f"https://api.github.com/repos/{owner}/{repo}/releases"
+              print(f"Fetching releases for {plugin.get('InternalName')} ({api_url})")
+              response = requests.get(api_url)
+              if response.status_code != 200:
+                  print(f"Failed to fetch {api_url}")
+                  continue
+
+              releases = response.json()
+              if not releases:
+                  print(f"No releases found for {plugin.get('InternalName')}")
+                  continue
+
+              latest = releases[0]
+              last_updated = latest.get("published_at")
+              download_count = sum(a["download_count"] for a in latest.get("assets", []))
+
+              # Update fields
+              plugin["LastUpdated"] = last_updated
+              plugin["DownloadCount"] = download_count
+              updated = True
+
+              print(f"Updated {plugin.get('InternalName')}: {download_count} downloads, last updated {last_updated}")
+
+          # Write changes if any
+          if updated:
+              with open("custom.json", "w") as f:
+                  json.dump(plugins, f, indent=2)
+          else:
+              print("No updates to apply.")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add custom.json
+          git commit -m "chore: update custom.json for all plugins" || echo "No changes to commit"
+          git push
