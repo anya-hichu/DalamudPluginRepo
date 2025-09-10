@@ -27,7 +27,7 @@ jobs:
           import json, re, requests
 
           def get_owner_repo(url):
-              match = re.search(r"github\\.com/([^/]+)/([^/]+)", url)
+              match = re.search("github\\.com/([^/]+)/([^/]+)", url)
               return match.groups() if match else (None, None)
 
           # Load custom.json
