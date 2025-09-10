@@ -55,7 +55,7 @@
     "ImageUrls": [],
     "IconUrl": "https://raw.githubusercontent.com/anya-hichu/Quack/0.1.2.0/images/icon.png",
     "Punchline": "Run actions quackly",
-    "Changelog": "- Add IPC.call function to JS engine and simplify honorific generator.",
+    "Changelog": "- API13",
     "AcceptsFeedback": false,
     "DownloadLinkInstall": "https://github.com/anya-hichu/Quack/releases/download/0.1.2.0/Quack.zip",
     "IsHide": false,
