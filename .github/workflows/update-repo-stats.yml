@@ -99,7 +99,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add custom.json
-          git commit -m "chore: update repo stats" || echo "No changes to commit"
+          git commit -m "Update repo stats" || echo "No changes to commit"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
