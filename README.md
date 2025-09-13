@@ -2,8 +2,6 @@ Custom [FFXIVQuickLauncher](https://github.com/goaaats/FFXIVQuickLauncher) plugi
 
 ## Installation
 
-![Instructions to add custom repo](https://github.com/anya-hichu/DalamudPluginRepo/raw/main/custom.png)
-
 First open the Dalamud Settings menu in the game, accessible through typing `/xlsettings` in the chat or through the button at the bottom of the Plugin Installer.
 
 Then follow the image:
@@ -13,3 +11,5 @@ Then follow the image:
 4. Click the 💾 button.
 
 Now these plugins will appear inside of the Plugin Installer, accessible through typing `/xlplugins` in the chat.
+
+![Instructions to add custom repo](https://github.com/anya-hichu/DalamudPluginRepo/raw/main/custom.png)
