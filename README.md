@@ -12,4 +12,5 @@ Then follow the image:
 
 Now these plugins will appear inside of the Plugin Installer, accessible through typing `/xlplugins` in the chat.
 
+
 ![Instructions to add custom repo](https://github.com/anya-hichu/DalamudPluginRepo/raw/main/custom.png)
