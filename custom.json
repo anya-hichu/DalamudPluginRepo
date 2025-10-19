@@ -204,7 +204,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "Punchline": "Discord activity as honorific",
-    "Changelog": "- API13",
+    "Changelog": "- Add error message when title is above the 32 characters limit and other improvements",
     "AcceptsFeedback": false,
     "DownloadLinkInstall": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.3.1/DiscordActivityHonorific.zip",
     "IsHide": false,
