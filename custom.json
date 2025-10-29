@@ -29,7 +29,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.3.0/GamblePyon.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.3.0/GamblePyon.zip",
-    "DownloadCount": 348,
+    "DownloadCount": 351,
     "LastUpdate": 1754593391
   },
   {
@@ -91,7 +91,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.3.0/DeterministicPose.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.3.0/DeterministicPose.zip",
-    "DownloadCount": 2850,
+    "DownloadCount": 2852,
     "LastUpdate": 1754589250
   },
   {
@@ -121,7 +121,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.4.1/ModSettingCommands.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.4.1/ModSettingCommands.zip",
-    "DownloadCount": 271,
+    "DownloadCount": 272,
     "LastUpdate": 1754734630
   },
   {
@@ -211,7 +211,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.3.1/DiscordActivityHonorific.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.3.1/DiscordActivityHonorific.zip",
-    "DownloadCount": 3147,
+    "DownloadCount": 3161,
     "LastUpdate": 1760863384
   },
   {
@@ -270,7 +270,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.3.0/PatMeHonorific.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.3.0/PatMeHonorific.zip",
-    "DownloadCount": 4146,
+    "DownloadCount": 4149,
     "LastUpdate": 1754686246
   },
   {
@@ -299,7 +299,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.1.0/Reggiex.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.1.0/Reggiex.zip",
-    "DownloadCount": 1893,
+    "DownloadCount": 1899,
     "LastUpdate": 1754735976
   }
 ]
