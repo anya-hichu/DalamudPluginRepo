@@ -62,7 +62,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/Quack/releases/download/0.1.2.0/Quack.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/Quack/releases/download/0.1.2.0/Quack.zip",
-    "DownloadCount": 2304,
+    "DownloadCount": 2306,
     "LastUpdate": 1754591977
   },
   {
@@ -91,7 +91,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.3.0/DeterministicPose.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.3.0/DeterministicPose.zip",
-    "DownloadCount": 2945,
+    "DownloadCount": 2947,
     "LastUpdate": 1754589250
   },
   {
@@ -121,7 +121,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.4.2/ModSettingCommands.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.4.2/ModSettingCommands.zip",
-    "DownloadCount": 344,
+    "DownloadCount": 346,
     "LastUpdate": 1763766516
   },
   {
@@ -151,7 +151,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.3.0/ModAutoTagger.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.3.0/ModAutoTagger.zip",
-    "DownloadCount": 272,
+    "DownloadCount": 273,
     "LastUpdate": 1754691432
   },
   {
@@ -182,7 +182,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.3.1/ChatDeathRoll.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.3.1/ChatDeathRoll.zip",
-    "DownloadCount": 548,
+    "DownloadCount": 549,
     "LastUpdate": 1756737547
   },
   {
@@ -211,7 +211,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.3.1/DiscordActivityHonorific.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.3.1/DiscordActivityHonorific.zip",
-    "DownloadCount": 3499,
+    "DownloadCount": 3507,
     "LastUpdate": 1760863384
   },
   {
@@ -241,7 +241,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.2.0/RecruitmentRefresher.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.2.0/RecruitmentRefresher.zip",
-    "DownloadCount": 1542,
+    "DownloadCount": 1545,
     "LastUpdate": 1754589829
   },
   {
@@ -270,7 +270,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.3.0/PatMeHonorific.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.3.0/PatMeHonorific.zip",
-    "DownloadCount": 4448,
+    "DownloadCount": 4461,
     "LastUpdate": 1754686246
   },
   {
@@ -299,7 +299,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.1.0/Reggiex.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.1.0/Reggiex.zip",
-    "DownloadCount": 2028,
+    "DownloadCount": 2037,
     "LastUpdate": 1754735976
   }
 ]
