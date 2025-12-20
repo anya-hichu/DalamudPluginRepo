@@ -29,8 +29,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.4.0/GamblePyon.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/FFXIVGamblePyon/releases/download/1.0.4.0/GamblePyon.zip",
-    "DownloadCount": 382,
-    "LastUpdate": 1754593391
+    "DownloadCount": 419,
+    "LastUpdate": 1766184036
   },
   {
     "Author": "Anya Hichu",
@@ -62,8 +62,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/Quack/releases/download/0.1.3.0/Quack.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/Quack/releases/download/0.1.3.0/Quack.zip",
-    "DownloadCount": 2340,
-    "LastUpdate": 1754591977
+    "DownloadCount": 2472,
+    "LastUpdate": 1766182907
   },
   {
     "Author": "Anya Hichu",
@@ -91,8 +91,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.4.0/DeterministicPose.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/DeterministicPose/releases/download/0.0.4.0/DeterministicPose.zip",
-    "DownloadCount": 2992,
-    "LastUpdate": 1754589250
+    "DownloadCount": 3175,
+    "LastUpdate": 1766182002
   },
   {
     "Author": "Anya Hichu",
@@ -121,8 +121,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.5.0/ModSettingCommands.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/ModSettingCommands/releases/download/0.0.5.0/ModSettingCommands.zip",
-    "DownloadCount": 359,
-    "LastUpdate": 1763766516
+    "DownloadCount": 381,
+    "LastUpdate": 1766175641
   },
   {
     "Author": "Anya Hichu",
@@ -151,8 +151,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.4.0/ModAutoTagger.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/ModAutoTagger/releases/download/0.0.4.0/ModAutoTagger.zip",
-    "DownloadCount": 285,
-    "LastUpdate": 1754691432
+    "DownloadCount": 314,
+    "LastUpdate": 1766177655
   },
   {
     "Author": "Anya Hichu",
@@ -182,8 +182,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.4.0/ChatDeathRoll.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/ChatDeathRoll/releases/download/0.0.4.0/ChatDeathRoll.zip",
-    "DownloadCount": 564,
-    "LastUpdate": 1756737547
+    "DownloadCount": 635,
+    "LastUpdate": 1766179678
   },
   {
     "Author": "Anya Hichu",
@@ -211,8 +211,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.4.0/DiscordActivityHonorific.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/DiscordActivityHonorific/releases/download/0.0.4.0/DiscordActivityHonorific.zip",
-    "DownloadCount": 3582,
-    "LastUpdate": 1760863384
+    "DownloadCount": 3897,
+    "LastUpdate": 1766177116
   },
   {
     "Author": "Anya Hichu",
@@ -241,8 +241,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.3.0/RecruitmentRefresher.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/RecruitmentRefresher/releases/download/0.0.3.0/RecruitmentRefresher.zip",
-    "DownloadCount": 1593,
-    "LastUpdate": 1754589829
+    "DownloadCount": 1744,
+    "LastUpdate": 1766178599
   },
   {
     "Author": "Anya Hichu",
@@ -270,8 +270,8 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.4.0/PatMeHonorific.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/PatMeHonorific/releases/download/0.0.4.0/PatMeHonorific.zip",
-    "DownloadCount": 4613,
-    "LastUpdate": 1754686246
+    "DownloadCount": 5062,
+    "LastUpdate": 1766180980
   },
   {
     "Author": "Anya Hichu",
@@ -299,7 +299,7 @@
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.2.0/Reggiex.zip",
     "DownloadLinkUpdate": "https://github.com/anya-hichu/Reggiex/releases/download/0.0.2.0/Reggiex.zip",
-    "DownloadCount": 2121,
-    "LastUpdate": 1754735976
+    "DownloadCount": 2312,
+    "LastUpdate": 1766183496
   }
 ]
