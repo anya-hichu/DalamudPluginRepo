@@ -20,7 +20,7 @@
     "CanUnloadAsync": false,
     "LoadPriority": 0,
     "ImageUrls": [],
-    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/Quack/0.1.4.0/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/anya-hichu/Quack/0.1.5.0/images/icon.png",
     "Punchline": "Run actions quackly",
     "Changelog": "- Update API 15 (penumbra generators still broken)",
     "AcceptsFeedback": false,
